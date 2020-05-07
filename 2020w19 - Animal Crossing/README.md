@@ -18,4 +18,4 @@ words <br /> ✔️ Plotting text as a scatter without overlap <br /> ✔️ How
 to create a ridgeline plot <br /> ✔️ How to plot multiple charts on the
 sameview <br /> ✔️ Countless formatting tricks <br />
 
-<!-- image: ![]() -->
+image: ![](https://github.com/NerdyWithData/tidytuesday/blob/master/2020w19%20-%20Animal%20Crossing/Plot%20Images/Final_Plot.png)
